@@ -1,0 +1,40 @@
+{
+  "datos": [
+    {
+      "name": "Recorrido por Uribelarrea",
+      "user": "Mariana",
+      "date": "2022",
+      "city": "Uribelarrea",
+      "location": "Buenos Aires",
+      "description": "Pasé un encantador fin de semana en Uribelarrea con mi pareja, explorando este encantador pueblo con un rico pasado histórico. La plaza Centenario y la feria de artesanos de fin de semana, nos invitaron a disfrutar de la cultura local. Pasamos por el Tambo Valle de Goñi, donde conocimos cabras amigables y disfrutamos de productos locales, como alfajorcitos de maizena con dulce de leche de cabra. También degustamos vinos en el Viñedo Finca don Atilio, donde probamos variedades de uvas locales y disfrutamos de una hermosa tarde. Uribelarrea es un lugar mágico para explorar la historia y los sabores de la región",
+      "image": "https://viajeydescubra.com/wp-content/uploads/2021/06/Uribelarrea-entrada-al-pueblo-buenos-aires-ruta-205.jpg"
+    },
+    {
+      "name": "Día de Termas",
+      "user": "Juan Ignacio",
+      "date": "2023",
+      "city": "Concepción del Uruguay",
+      "location": "Entre Ríos",
+      "description": "Pasé un maravilloso fin de semana en Concepción del Uruguay con mi familia. Además de sus atracciones históricas y balnearias, descubrimos Termas Concepción, un complejo de aguas termales con cinco piscinas a diferentes temperaturas, hermosos paisajes, y opciones de relajación en un spa. También exploramos un magnífico lago artificial y disfrutamos de comidas en el restaurante con vistas naturales. Este destino nos ofreció una experiencia de bienestar y relajación en un entorno natural, ideal para familias que buscan escapar de la rutina.",
+      "image": "https://www.welcomeargentina.com/paseos/termas-concepcion/termas-concepcion-1.jpg"
+    },
+    {
+      "name": "Full day en Tandil",
+      "user": "Luana",
+      "date": "2023",
+      "city": "Tandil",
+      "location": "Buenos Aires",
+      "description": "Tuve un lindo día en Tandil, una ciudad rodeada por sierras. Exploré el Museo Tradicionalista Fuerte Independencia, donde aprendí sobre la historia local. Subí en teleférico al Cerro Centinela y disfruté de las impresionantes vistas desde la cima. Además, visité el famoso Cerro La Movediza y el encantador Lago del Fuerte. Mis excursiones incluyeron caminatas por la naturaleza en la Sierra del Tigre, donde incluso tuve la oportunidad de ver llamas y pumas. También probé deliciosos productos locales en fábricas de la región. Un viaje lleno de aventuras en un hermoso entorno.",
+      "image": "https://scontent.faep9-3.fna.fbcdn.net/v/t39.30808-6/364746976_659034409593951_857812478214851123_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=813123&_nc_ohc=tOEwM1EZq5UAX9TAm00&_nc_ht=scontent.faep9-3.fna&oh=00_AfC5wNcqx9buLbi88sqeHF86ZkJjcnuR-Mz3FzkdRunnvw&oe=651E0AE1"
+    },
+    {
+      "name": "Fin de semana largo en Cataratas",
+      "user": "Carla",
+      "date": "2023",
+      "city": "Iguazú",
+      "location": "Misiones",
+      "description": "Pasé unos días inolvidables en las Cataratas del Iguazú con mis amigos. Este lugar es imponente, nos dejó asombrados. Exploramos la selva, abordamos el Tren a la Garganta del Diablo, vimos una variedad increíble de vida silvestre, desde tucanes hasta tortugas, mientras caminábamos por pasarelas sobre el río. Experimentamos la magia de las Cataratas de noche en un paseo bajo la luz de la luna llena y además, tuvimos la posibilidad de cenar buffet y parrilla libre en el restaurante del parque. ¡No se pueden perder la experiencia!.",
+      "image": "https://media.puntal.com.ar/p/25172d0e3aebcf95d2d16567a983c156/adjuntos/270/imagenes/000/981/0000981688/turismojpg.jpg"
+    }
+  ]
+}
