@@ -1,16 +1,18 @@
 {
   "datos": [
     {
-      "name": "Recorrido por Uribelarrea",
+      "id": 1,
+      "title": "Recorrido por Uribelarrea",
       "user": "Mariana",
       "date": "2022",
       "city": "Uribelarrea",
       "location": "Buenos Aires",
       "description": "Pasé un encantador fin de semana en Uribelarrea con mi pareja, explorando este encantador pueblo con un rico pasado histórico. La plaza Centenario y la feria de artesanos de fin de semana, nos invitaron a disfrutar de la cultura local. Pasamos por el Tambo Valle de Goñi, donde conocimos cabras amigables y disfrutamos de productos locales, como alfajorcitos de maizena con dulce de leche de cabra. También degustamos vinos en el Viñedo Finca don Atilio, donde probamos variedades de uvas locales y disfrutamos de una hermosa tarde. Uribelarrea es un lugar mágico para explorar la historia y los sabores de la región",
-      "image": "https://viajeydescubra.com/wp-content/uploads/2021/06/Uribelarrea-entrada-al-pueblo-buenos-aires-ruta-205.jpg"
+      "image": "https://2.bp.blogspot.com/-xvJGlteW25w/VZmrlSfR3EI/AAAAAAAAKxA/ZLPGvoxgQFk/s1600/P1540082.jpg"
     },
     {
-      "name": "Día de Termas",
+      "id": 2,
+      "title": "Día de Termas",
       "user": "Juan Ignacio",
       "date": "2023",
       "city": "Concepción del Uruguay",
@@ -19,22 +21,44 @@
       "image": "https://www.welcomeargentina.com/paseos/termas-concepcion/termas-concepcion-1.jpg"
     },
     {
-      "name": "Full day en Tandil",
+      "id": 3,
+      "title": "Full day en Tandil",
       "user": "Luana",
       "date": "2023",
       "city": "Tandil",
       "location": "Buenos Aires",
       "description": "Tuve un lindo día en Tandil, una ciudad rodeada por sierras. Exploré el Museo Tradicionalista Fuerte Independencia, donde aprendí sobre la historia local. Subí en teleférico al Cerro Centinela y disfruté de las impresionantes vistas desde la cima. Además, visité el famoso Cerro La Movediza y el encantador Lago del Fuerte. Mis excursiones incluyeron caminatas por la naturaleza en la Sierra del Tigre, donde incluso tuve la oportunidad de ver llamas y pumas. También probé deliciosos productos locales en fábricas de la región. Un viaje lleno de aventuras en un hermoso entorno.",
-      "image": "https://scontent.faep9-3.fna.fbcdn.net/v/t39.30808-6/364746976_659034409593951_857812478214851123_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=813123&_nc_ohc=tOEwM1EZq5UAX9TAm00&_nc_ht=scontent.faep9-3.fna&oh=00_AfC5wNcqx9buLbi88sqeHF86ZkJjcnuR-Mz3FzkdRunnvw&oe=651E0AE1"
+      "image": "https://turismoruraltandil.com.ar/wp-content/uploads/2018/08/IMG-20171221-WA0014-700x400.jpg"
     },
     {
-      "name": "Fin de semana largo en Cataratas",
+      "id": 4,
+      "title": "Fin de semana largo en Cataratas",
       "user": "Carla",
       "date": "2023",
       "city": "Iguazú",
       "location": "Misiones",
       "description": "Pasé unos días inolvidables en las Cataratas del Iguazú con mis amigos. Este lugar es imponente, nos dejó asombrados. Exploramos la selva, abordamos el Tren a la Garganta del Diablo, vimos una variedad increíble de vida silvestre, desde tucanes hasta tortugas, mientras caminábamos por pasarelas sobre el río. Experimentamos la magia de las Cataratas de noche en un paseo bajo la luz de la luna llena y además, tuvimos la posibilidad de cenar buffet y parrilla libre en el restaurante del parque. ¡No se pueden perder la experiencia!.",
       "image": "https://media.puntal.com.ar/p/25172d0e3aebcf95d2d16567a983c156/adjuntos/270/imagenes/000/981/0000981688/turismojpg.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vacaciones en Las Toninas",
+      "user": "Jorge",
+      "date": "2022",
+      "city": "Las Toninas",
+      "location": "Buenos Aires",
+      "description": "Fui a Las Toninas con mi esposa y me gustó porque es un destino perfecto para un retiro tranquilo. Las playas son anchas y poco profundas, ideal para familias. Las opciones son económicas, pudimos descansar y pescar en la costa. El ambiente es familiar.",
+      "image": "https://www.viajaressalud.com.ar/es/wp-content/uploads/2016/05/lastoninas1-b08293aec52212607081ca92a728ca59.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cosquín Rock",
+      "user": "Sebastián",
+      "date": "2022",
+      "city": "Cosquín",
+      "location": "Córdoba",
+      "description": "Increíble experiencia, muy bien organizado. Pude asistir los dos días, estuvo espectacular. En el predio había áreas de descanso, puestos de comida, primeros auxilios, todo bien distribuído. Pudimos aprovechar con mis amigos para recorrer un poco Cosquín y me quedé con ganas de volver.",
+      "image": "https://media.ouest-france.fr/v1/pictures/MjAyMjA4YjM1MDM2NmYzODI0OWNiYTc0NmIxMmRmMDZjYTRkODk?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=c36abe086b143fb6000121c3ed08579b1b86deb6d0c348df468714e5022ef5a7"
     }
   ]
 }
